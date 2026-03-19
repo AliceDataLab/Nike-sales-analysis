@@ -26,5 +26,5 @@ Machine learning analysis of Nike sales data using Python, EDA, and predictive m
 
 ---
 
-👩‍💻 **Author:** Alice Mataruse  
-🎓 MS Business Analytics (Applied AI)
+ **Author:** Alice Mataruse  
+MS Business Analytics (Applied AI)
