@@ -1,3 +1,4 @@
+
 # Nike-sales-analysis
 Machine learning analysis of Nike sales data using Python, EDA, and predictive modeling
 
@@ -22,6 +23,23 @@ Machine learning analysis of Nike sales data using Python, EDA, and predictive m
 
 ## Future Improvements
 - Deploy interactive dashboard (Power BI / Tableau)
+
+  ## 📊 Visual Insights
+
+### Profit Distribution by Region
+![Profit](images/Boxplot-Profit distribution by region.png)
+
+Profit varies significantly across regions, indicating location-based performance differences.
+
+### MRP vs Profit Relationship
+![MRP](Relationship Between MRP and Profit by sales channel.png)
+
+Positive relationship between price and profit across sales channels.
+
+### Correlation Heatmap
+![Heatmap](Correlation Heatmap of Discount, Revenue, and Profit.png)
+
+Revenue and profit show strong correlation, while discount impact is weaker.
 - Implement advanced models (XGBoost)
 
 ---
