@@ -7,10 +7,11 @@ Machine learning analysis of Nike sales data using Python, EDA, and predictive m
 - Identify key drivers of revenue and profit
 - Build predictive models for forecasting
 
-## Tools & Technologies
+## Tools & Technologies Used 
 - Python (Pandas, NumPy, Scikit-learn)
 - Data Visualization (Matplotlib, Seaborn)
 - Machine Learning Models
+  
 ## Key Insights
 - Strong positive relationship between Units Sold and Revenue
 - Discounts have limited impact on profit
