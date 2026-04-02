@@ -24,7 +24,7 @@ Machine learning analysis of Nike sales data using Python, EDA, and predictive m
 ## Future Improvements
 - Deploy interactive dashboard (Power BI / Tableau)
 
-  ## 📊 Visual Insights
+  ##Visual Insights
 
 ### Profit Distribution by Region
 ![Profit](images/Boxplot-Profit distribution by region.png)
